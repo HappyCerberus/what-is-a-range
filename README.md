@@ -15,20 +15,6 @@
 * [Grab the EFF edition](https://leanpub.com/cpp-coding-interview)
 
 
-\begin{frame}{Daily bit(e) of C++}
-\begin{columns}
-    \begin{column}{0.35\textwidth}
-        \includegraphics[height=0.8\textheight]{static/daily_bite.png}
-    \end{column}
-    \begin{column}{0.6\textwidth}
-        \begin{itemize}
-HappyCerberus/daily-bite-cpp}
-        \end{itemize}
-    \end{column}
-\end{columns}
-\end{frame}
-
-
 ## Daily bit(e) of C++
 
 * Best experience on [LinkedIn](https://www.linkedin.com/in/simontoth)
